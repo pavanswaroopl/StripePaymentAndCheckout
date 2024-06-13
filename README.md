@@ -1,1 +1,1 @@
-# StripePaymentIntegration
+Stripe Integration with frontend and backend
